@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ear/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ear/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ejbs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ejbs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leet-code/ear/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leet-code/ear/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leet-code/ejbs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leet-code/ejbs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leet-code/primary-source/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leet-code/primary-source/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leet-code/projects/logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leet-code/projects/logging/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leet-code/projects/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leet-code/projects/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leet-code/servlets/servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leet-code/servlets/servlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leet-code/servlets/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leet-code/servlets/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leet-code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leet-code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/primary-source/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/primary-source/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/logging/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlets/servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlets/servlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlets/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlets/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-01-quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-03-bean-instance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-05-bean-constructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-06-bean-autoware/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-09-datasource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

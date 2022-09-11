@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="bookDao" name="bookDao2" class="com.huawei.dao.impl.BookDaoImpl" scope="singleton" init-method="init" destroy-method="destory">
+        <property name="array">
+            <array>
+                <value>1</value>
+                <value>12</value>
+                <value>123</value>
+                <value>1234</value>
+            </array>
+        </property>
+        <property name="list">
+            <list>
+                <value>q</value>
+                <value>w</value>
+                <value>e</value>
+                <value>f</value>
+            </list>
+        </property>
+        <property name="set">
+            <set>
+                <value>sd</value>
+                <value>df</value>
+                <value>gh</value>
+                <value>jk</value>
+                <value>jk</value>
+                <value>jk</value>
+            </set>
+        </property>
+
+        <property name="map">
+            <map>
+                <entry key="country" value="china"></entry>
+                <entry key="province" value="beijing"></entry>
+                <entry key="city" value="chang"></entry>
+            </map>
+        </property>
+        <property name="properties">
+            <props>
+                <prop key="country">hanSuo</prop>
+            </props>
+        </property>
+
+    </bean>
+    <bean id="userDao" name="userDao2" class="com.huawei.dao.impl.UserDaoImpl" init-method="init" destroy-method="destory"></bean>
+    <bean id="bookService" name="service bookService2" class="com.huawei.service.impl.BookServiceImpl" autowire="byType">
+    </bean>
+
+
+</beans>
